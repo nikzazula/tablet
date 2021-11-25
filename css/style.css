@@ -17,7 +17,7 @@ html{
   color: white;
   transform: translateX(-80%);
   transition: transform 0.3s;
-  font-size: 13px;
+  font-size: 14px;
 }
 
 .skip-to-content-link:hover{
